@@ -1,0 +1,7 @@
+node_modules
+*.test.ts
+.env
+dist
+.gitignore
+jest.config.js
+README.md
